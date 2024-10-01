@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cionok.github.io/fuu/sitemap.fuu.gz
